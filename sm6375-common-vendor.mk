@@ -1093,6 +1093,7 @@ PRODUCT_PACKAGES += \
     dpmapi \
     moto-telephony \
     qcrilhook \
+    qti-telephony-common \
     vendor.qti.hardware.alarm-V1.0-java \
     vendor.qti.ims.configservice-V1.0-java \
     vendor.qti.ims.configservice-V1.1-java \
