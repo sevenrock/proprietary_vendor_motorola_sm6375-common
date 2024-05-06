@@ -104,7 +104,7 @@ INSERT OR REPLACE INTO qcril_properties_table(property, def_val) VALUES("persist
 INSERT OR REPLACE INTO qcril_properties_table(property, def_val) VALUES("persist.vendor.radio.csg_info_avlbl", "0");
 INSERT OR REPLACE INTO qcril_properties_table(property, def_val) VALUES("persist.vendor.radio.cs_srv_type", "0");
 INSERT OR REPLACE INTO qcril_properties_table(property, def_val) VALUES("persist.vendor.radio.limit_rac_change", "0");
-INSERT OR REPLACE INTO qcril_properties_table(property, def_val) VALUES("persist.vendor.radio.poweron_opt", "1");
+INSERT OR REPLACE INTO qcril_properties_table(property, def_val) VALUES("persist.vendor.radio.poweron_opt", "0");
 INSERT OR REPLACE INTO qcril_properties_table(property) VALUES("persist.vendor.radio.sglte_target");
 INSERT OR REPLACE INTO qcril_properties_table(property) VALUES("persist.vendor.radio.nitz_plmn_0");
 INSERT OR REPLACE INTO qcril_properties_table(property) VALUES("persist.vendor.radio.nitz_plmn_1");
